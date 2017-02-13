@@ -1,2 +1,0 @@
-# hovercraft
-Hovercraft Transmitter / Receiver
